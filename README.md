@@ -1,8 +1,8 @@
 # MSFAnalyser
 <div>
-  <p>A placeholder for a brief description</p>
-  <p>A placeholder for a brief description</p>
+  <p>Abstract: </p>
+  <p>Citation: </p>
 
 </div>
 
-<pre>CORIOLS4EVER</pre>
+<pre>DESCRIPTION WILL BE UPDATED UPON PUBLICATION OF THE ARTICLE</pre>
